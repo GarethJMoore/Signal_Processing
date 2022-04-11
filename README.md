@@ -4,9 +4,11 @@ The content of this repository is the result of a project from the CAS in Applie
 
 The repository consists of a [conceptual design report](https://github.com/GarethJMoore/CAS_M1_GMoore/blob/master/CDR_Gmoore.pdf) and a [jupyter notebook](https://github.com/GarethJMoore/CAS_M1_GMoore/blob/master/CAS_M1_GMoore.ipynb), along with a data file.
 
-The conceptual design report (**'DCR_Gmoore.pdf'**) describes the data flow for Transient Absorption Spectroscopic (TAS) data. This includes the processing, cleaning, presenting and analysis of the data in the form of a report.  
+The conceptual design report (_'DCR_Gmoore.pdf'_) describes the data flow for Transient Absorption Spectroscopic (TAS) data. This includes the processing, cleaning, presenting and analysis of the data in the form of a report.  
 
-The jupyter notebook notebook 
+The jupyter notebook notebook (_'CAS_M1_GMoore.ipynb'_) presents and describes the code used to first process the signal, then produce the TA spectra. 
+
+The singal processing esentially applies the work of [Anderson _et. al_](https://aip.scitation.org/doi/full/10.1063/1.2755391) to filter out noise from the measured TAS data.
 
 ## Welcome to GitHub Pages
 
