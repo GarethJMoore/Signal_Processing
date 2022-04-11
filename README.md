@@ -1,5 +1,7 @@
 # Signal Processing and TA analysis
 
+The content of this repository is the result of a project from the CAS in Applied Data Sceince which I completed at the Univeristy of Bern in 2020-2021.
+
 
 
 ## Welcome to GitHub Pages
