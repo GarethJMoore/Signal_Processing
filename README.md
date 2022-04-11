@@ -1,8 +1,12 @@
 # Signal Processing and TA analysis
 
-The content of this repository is the result of a project from the CAS in Applied Data Sceince which I completed at the Univeristy of Bern in 2020-2021.
+The content of this repository is the result of a project from the CAS in Applied Data Sceince which I completed at the Univeristy of Bern in 2019-2020.
 
+The repository consists of a [conceptual design report](https://github.com/GarethJMoore/CAS_M1_GMoore/blob/master/CDR_Gmoore.pdf) and a [jupyter notebook](https://github.com/GarethJMoore/CAS_M1_GMoore/blob/master/CAS_M1_GMoore.ipynb), along with a data file.
 
+The conceptual design report (**'DCR_Gmoore.pdf'**) describes the data flow for Transient Absorption Spectroscopic (TAS) data. This includes the processing, cleaning, presenting and analysis of the data in the form of a report.  
+
+The jupyter notebook notebook 
 
 ## Welcome to GitHub Pages
 
