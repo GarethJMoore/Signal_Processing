@@ -17,3 +17,6 @@ Presents and describes the code used to first process the signal, then produce t
 - Presents the spectra in different forms.
 3. Spectral analysis where spectral decomposition is discussed
 
+## TAS data pipeline
+
+The notebook-based pipeline has been packaged into a reusable script under `pipeline/`. See `pipeline/README.md` for usage and outputs.
